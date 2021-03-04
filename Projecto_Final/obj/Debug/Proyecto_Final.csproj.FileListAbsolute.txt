@@ -1,0 +1,16 @@
+C:\Users\Johan Alonzo Plc\source\repos\Projecto_Final\Projecto_Final\bin\Debug\Projecto_Final.exe.config
+C:\Users\Johan Alonzo Plc\source\repos\Projecto_Final\Projecto_Final\bin\Debug\Projecto_Final.exe
+C:\Users\Johan Alonzo Plc\source\repos\Projecto_Final\Projecto_Final\bin\Debug\Projecto_Final.pdb
+C:\Users\Johan Alonzo Plc\source\repos\Projecto_Final\Projecto_Final\obj\Debug\Proyecto_Final.csprojAssemblyReference.cache
+C:\Users\Johan Alonzo Plc\source\repos\Projecto_Final\Projecto_Final\obj\Debug\Projecto_Final.Form1.resources
+C:\Users\Johan Alonzo Plc\source\repos\Projecto_Final\Projecto_Final\obj\Debug\Projecto_Final.FormCita.resources
+C:\Users\Johan Alonzo Plc\source\repos\Projecto_Final\Projecto_Final\obj\Debug\Projecto_Final.FormClinica.resources
+C:\Users\Johan Alonzo Plc\source\repos\Projecto_Final\Projecto_Final\obj\Debug\Projecto_Final.FormConsultas.resources
+C:\Users\Johan Alonzo Plc\source\repos\Projecto_Final\Projecto_Final\obj\Debug\Projecto_Final.FormMedico.resources
+C:\Users\Johan Alonzo Plc\source\repos\Projecto_Final\Projecto_Final\obj\Debug\Projecto_Final.FormMoneda.resources
+C:\Users\Johan Alonzo Plc\source\repos\Projecto_Final\Projecto_Final\obj\Debug\Projecto_Final.FormPaciente.resources
+C:\Users\Johan Alonzo Plc\source\repos\Projecto_Final\Projecto_Final\obj\Debug\Projecto_Final.Properties.Resources.resources
+C:\Users\Johan Alonzo Plc\source\repos\Projecto_Final\Projecto_Final\obj\Debug\Proyecto_Final.csproj.GenerateResource.cache
+C:\Users\Johan Alonzo Plc\source\repos\Projecto_Final\Projecto_Final\obj\Debug\Projecto_Final.exe
+C:\Users\Johan Alonzo Plc\source\repos\Projecto_Final\Projecto_Final\obj\Debug\Projecto_Final.pdb
+C:\Users\Johan Alonzo Plc\source\repos\Projecto_Final\Projecto_Final\obj\Debug\Projecto_Final.FormDiseño.resources
